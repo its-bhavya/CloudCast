@@ -5,13 +5,13 @@ The game challenges players to match predicted weather statistics with actual re
 
 The project is modularized into four subdivisions: 
 </br>
-&emsp -**TUI** - Text User Interface
+&emsp; -**TUI** - Text User Interface
   </br>
-&emsp  -**Generator** - To create and populate datasets
+&emsp;  -**Generator** - To create and populate datasets
     </br>
-&emsp  -**Judge** - For scoring
+&emsp;  -**Judge** - For scoring
     </br>
-&emsp  -**Toolkit** - For backend connectivity and helper functions</t>
+&emsp;  -**Toolkit** - For backend connectivity and helper functions</t>
 
 <h2>Objective</h2>
 The primary goal of Cloudcast is to engage users in a fun and educational experience, fostering an understanding of data structures and algorithms. </br>
