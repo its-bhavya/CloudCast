@@ -1,7 +1,7 @@
 <h1>Cloudcast</h1>
 <h2>Introduction</h2>
 Cloudcast is a text-based game built on Python and MySQL, designed to promote education in data structures and algorithms. 
-The game challenges players to match predicted weather statistics with actual recorded values using well-defined operations.</br> 
+The game challenges players to match predicted weather statistics with actual recorded values using well-defined operations.</br></br>
 
 The project is modularized into four subdivisions: 
 <ol>
