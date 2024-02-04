@@ -7,9 +7,9 @@ The project is modularized into four subdivisions:
 </br>
 <ol>
 &emsp; <li><b>TUI</b> - Text User Interface</li></br>
-&emsp;  <li><b>Generator</b> - To create and populate datasets</li> </br>
-&emsp;  <li><b>Judge</b> - For scoring</li></br>
-&emsp;  <li><b>Toolkit</b> - For backend connectivity and helper functions</li>
+  <li><b>Generator</b> - To create and populate datasets</li> </br>
+  <li><b>Judge</b> - For scoring</li></br>
+  <li><b>Toolkit</b> - For backend connectivity and helper functions</li>
 </ol>
 
 <h2>Objective</h2>
