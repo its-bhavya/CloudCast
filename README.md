@@ -15,9 +15,9 @@ The project is modularized into four subdivisions:
 The primary goal of Cloudcast is to engage users in a fun and educational experience, fostering an understanding of data structures and algorithms. </br>
 Players strive to optimize their scores through basic algorithmic knowledge, making the game suitable for enthusiasts interested in text-based gaming. </br>
 Future upgrades may expand the audience through:</br>
- &emsp;&emsp; -<b>GUI implementation</br>
+ &emsp;&emsp;-<b>GUI implementation</br>
  &emsp;&emsp;-Additional themes</br>
- &emsp;&emsp; -Enhanced dataset generation</b></br>
+ &emsp;&emsp;-Enhanced dataset generation</b></br>
 
 <h2>Specifications</h2>
 <ul>
@@ -56,22 +56,26 @@ Future upgrades may expand the audience through:</br>
 </li>
 </ol>
 
+<H2>How to Use</H2>
+<ol>
+  <li>Ensure Python 3.7+ and MySQL 8.0 are installed.</li>
+  <li>Connect to the internet for API calls when starting a new game.</li>
+  <li>Run main.py to launch the game.</li>
+  <li>Follow on-screen instructions to play and save progress.</li>
+</ol>
 
+<h2>Future Upgrades</h2>
+<ol>
+  <li>Implementation of a GUI for a more user-friendly experience</li>
+  <li>Addition of diverse themes to the weather system</li>
+  <li>Increased user options for versatility</li>
+  <li>Enhancement of the random dataset generator</li>
+</ol>
 
-
-
-
-How to Use
-Ensure Python 3.7+ and MySQL 8.0 are installed.
-Connect to the internet for API calls when starting a new game.
-Run main.py to launch the game.
-Follow on-screen instructions to play and save progress.
-Future Upgrades
-Implementation of a GUI for a more user-friendly experience
-Addition of diverse themes to the weather system
-Increased user options for versatility
-Enhancement of the random dataset generator
-Contribution and Feedback
-This version of Cloudcast is a well-developed prototype. Contributions, feedback, and evaluations from experts and critics are welcome. Monetization is not currently viable within the project's scope.
+<h2>Contribution and Feedback</h2>
+This version of Cloudcast is a well-developed prototype. </br>
+Contributions, feedback, and evaluations from experts and critics are welcome.</br>
+Monetization is not currently viable within the project's scope.
+</br></br>
 
 At the end of the day, Cloudcast aims to spark interest in the field of data structures and computing algorithms among its players.
