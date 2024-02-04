@@ -41,26 +41,26 @@ Future upgrades may expand the audience through:<ul>
 <li>Helper functions for main and scoring</li>
 <li>Python-MySQL connectivity</li>
 <li><b>Functions Definitions</b><ul>
-  <li><u>toolkit.update(week, day, stat, val)</u>:</br>
-  &emsp updates data at specified cell to ‘val’
+  <li><ins>toolkit.update</ins>(week, day, stat, val):</br>
+  &emsp; updates data at specified cell to ‘val’
   </li>
-  <li><u>toolkit.display(week, day=0, stat=0)</u>:</br>
-  &emsp displays the tables in a tabular format
+  <li><ins>toolkit.display</ins>(week, day=0, stat=0):</br>
+  &emsp; displays the tables in a tabular format
   </li>
-  <li><u>toolkit.exit</u>(maxdiff=0, scoreslate=0, offset=0, moves=0,save=False):</br>
-  &emsp saves the game if requested and cleans up the environment
+  <li><ins>toolkit.exit</ins>(maxdiff=0, scoreslate=0, offset=0, moves=0,save=False):</br>
+  &emsp; saves the game if requested and cleans up the environment
 </li>
-  <li><u>toolkit.load</u>():</br>
-  &emsp	returns game save variables, or -1 if save file not found
+  <li><ins>toolkit.load</ins>():</br>
+  &emsp;	returns game save variables, or -1 if save file not found
 </li>
-  <li><u>toolkit.get_tables</u>():</br>
-  &emsp returns entire datasets
+  <li><ins>toolkit.get_tables</ins>():</br>
+  &emsp; returns entire datasets
 </li>
-  <li><u>toolkit.get_val</u>(week, day, stat):</br>
-  &emsp returns predicted_value and recorded_value
+  <li><ins>toolkit.get_val</ins>(week, day, stat):</br>
+  &emsp; returns predicted_value and recorded_value
 </li>
-  <li><u>toolkit.Connect</u>(pwd):</br>
-  &emsp establishes connection with database, with password as ‘pwd’
+  <li><ins>toolkit.Connect</ins>(pwd):</br>
+  &emsp; establishes connection with database, with password as ‘pwd’
 </li>
 </ul>
 </li>
