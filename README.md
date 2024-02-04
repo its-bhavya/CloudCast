@@ -5,15 +5,21 @@ The game challenges players to match predicted weather statistics with actual re
 
 The project is modularized into four subdivisions: 
 </br>
-  -**TUI** (Text User Interface)
+  -**TUI**(Text User Interface)
+  </br>
   -**Generator** (to create and populate datasets)
+    </br>
   -**Judge** (for scoring)
+    </br>
   -**Toolkit** (for backend connectivity and helper functions).
 
 <h2>Objective</h2>
-The primary goal of Cloudcast is to engage users in a fun and educational experience, fostering an understanding of data structures and algorithms. 
-Players strive to optimize their scores through basic algorithmic knowledge, making the game suitable for enthusiasts interested in text-based gaming. 
-Future upgrades may expand the audience through **GUI implementation**, **additional themes**, and **enhanced dataset generation**.
+The primary goal of Cloudcast is to engage users in a fun and educational experience, fostering an understanding of data structures and algorithms. </br>
+Players strive to optimize their scores through basic algorithmic knowledge, making the game suitable for enthusiasts interested in text-based gaming. </br>
+Future upgrades may expand the audience through:</br>
+  -<b>GUI implementation</br>
+  -Additional themesbr>
+  -Enhanced dataset generation</b></br>
 
 <h2>Specifications</h2>
 <ul>
@@ -36,16 +42,19 @@ Future upgrades may expand the audience through **GUI implementation**, **additi
 <li>Helper functions for main and scoring</li>
 <li>Python-MySQL connectivity</li>
 <li>Functions include data updates, table display, game saving/loading, and more</li>
+  </ul>
 </li>
 <li>**scoring.py**
   <ul>
 <li>Evaluates optimization scores</li>
-<li>Initializes judge variables and calculates scores based on player performance</li>
+<li>Initializes judge variables and calculates scores based on player performance</li> 
+  </ul>
 </li>
 <li>**gen.py**
   <ul>
 <li>Creates and populates datasets with randomized values from real-time API calls</li>
 <li>Handles dataset generation in the MySQL database</li>
+  </ul>
 </li>
 </ol>
 
