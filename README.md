@@ -12,9 +12,9 @@ The project is modularized into four subdivisions: <ol>
 
 <h2>Objective</h2>
 The primary goal of Cloudcast is to engage users in a fun and educational experience, fostering an understanding of data structures and algorithms. 
-</br>
+</br></br>
 Players strive to optimize their scores through basic algorithmic knowledge, making the game suitable for enthusiasts interested in text-based gaming. 
-</br>
+</br></br>
 Future upgrades may expand the audience through:<ul>
  <li>GUI implementation</li>
  <li>Additional themes</li>
@@ -74,8 +74,8 @@ Future upgrades may expand the audience through:<ul>
 </ul>
 
 <h2>Contribution and Feedback</h2>
-This version of Cloudcast is a well-developed prototype. </br>
-Contributions, feedback, and evaluations from experts and critics are welcome.</br>
+This version of Cloudcast is a well-developed prototype. </br></br>
+Contributions, feedback, and evaluations from experts and critics are welcome.</br></br>
 Monetization is not currently viable within the project's scope.
 </br></br>
 
