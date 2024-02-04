@@ -1,5 +1,4 @@
 <h1>Cloudcast</h1>
-<p style="font-family:'Courier New'">This is another paragraph.</p>
 <h2>Introduction</h2>
 Cloudcast is a text-based game built on Python and MySQL, designed to promote education in data structures and algorithms. 
 The game challenges players to match predicted weather statistics with actual recorded values using well-defined operations.</br></br>
@@ -42,25 +41,25 @@ Future upgrades may expand the audience through:<ul>
 <li>Helper functions for main and scoring</li>
 <li>Python-MySQL connectivity</li>
 <li><b>Functions Definitions</b><ul>
-  <li><ins>toolkit.update</ins>(week, day, stat, val):</br>
+  <li><b>toolkit.update</b>(week, day, stat, val):</br>
   &emsp; updates data at specified cell to ‘val’
   </li>
-  <li><ins>toolkit.display</ins>(week, day=0, stat=0):</br>
+  <li><b>toolkit.display</b>(week, day=0, stat=0):</br>
   &emsp; displays the tables in a tabular format
   </li>
-  <li><ins>toolkit.exit</ins>(maxdiff=0, scoreslate=0, offset=0, moves=0,save=False):</br>
+  <li><b>toolkit.exit</b>(maxdiff=0, scoreslate=0, offset=0, moves=0,save=False):</br>
   &emsp; saves the game if requested and cleans up the environment
 </li>
-  <li><ins>toolkit.load</ins>():</br>
+  <li><b>toolkit.load</b>():</br>
   &emsp;	returns game save variables, or -1 if save file not found
 </li>
-  <li><ins>toolkit.get_tables</ins>():</br>
+  <li><b>toolkit.get_tables</b>():</br>
   &emsp; returns entire datasets
 </li>
-  <li><ins>toolkit.get_val</ins>(week, day, stat):</br>
+  <li><b>toolkit.get_val</b>(week, day, stat):</br>
   &emsp; returns predicted_value and recorded_value
 </li>
-  <li><ins>toolkit.Connect</ins>(pwd):</br>
+  <li><b>toolkit.Connect</b>(pwd):</br>
   &emsp; establishes connection with database, with password as ‘pwd’
 </li>
 </ul>
