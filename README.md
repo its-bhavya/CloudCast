@@ -6,13 +6,10 @@ The game challenges players to match predicted weather statistics with actual re
 The project is modularized into four subdivisions: 
 </br>
 <ol>
-&emsp; <li>**TUI** - Text User Interface</li>
-  </br>
-&emsp;  <li>**Generator** - To create and populate datasets</li>
-    </br>
-&emsp;  <li>**Judge** - For scoring</li>
-    </br>
-&emsp;  <li>**Toolkit** - For backend connectivity and helper functions</li>
+&emsp; <li><b>TUI</b> - Text User Interface</li></br>
+&emsp;  <li><b>Generator</b> - To create and populate datasets</li> </br>
+&emsp;  <li><b>Judge</b> - For scoring</li></br>
+&emsp;  <li><b>Toolkit</b> - For backend connectivity and helper functions</li>
 </ol>
 
 <h2>Objective</h2>
