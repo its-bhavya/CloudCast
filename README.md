@@ -1,4 +1,5 @@
 <h1>Cloudcast</h1>
+<p style="font-family:'Courier New'">This is another paragraph.</p>
 <h2>Introduction</h2>
 Cloudcast is a text-based game built on Python and MySQL, designed to promote education in data structures and algorithms. 
 The game challenges players to match predicted weather statistics with actual recorded values using well-defined operations.</br></br>
