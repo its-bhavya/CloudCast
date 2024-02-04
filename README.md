@@ -6,9 +6,9 @@ The game challenges players to match predicted weather statistics with actual re
 The project is modularized into four subdivisions: 
 </br>
 <ol>
-&emsp; <li><b>TUI</b> - Text User Interface</li></br>
-  <li><b>Generator</b> - To create and populate datasets</li> </br>
-  <li><b>Judge</b> - For scoring</li></br>
+&emsp;&emsp; <li><b>TUI</b> - Text User Interface</li>
+  <li><b>Generator</b> - To create and populate datasets</li> 
+  <li><b>Judge</b> - For scoring</li>
   <li><b>Toolkit</b> - For backend connectivity and helper functions</li>
 </ol>
 
